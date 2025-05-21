@@ -24,7 +24,7 @@ Este jogo foi inteiramente desenvolvido em linguagem **Assembly RISC-V**, como p
 2. Arraste o arquivo ".s" para cima do RARS e espere que a janela com a tela inicial do jogo abra.
 
 ## 🗂 Estrutura do Projeto
-
+```
 prision_corrupt/
 ├── prision corrupt.s             # Código principal do jogo
 ├── cheats/
@@ -37,7 +37,7 @@ prision_corrupt/
 ├── Rars16_Custom1.jar           # Ferramenta personalizada RARS
 ├── fpgrars-x86_64.exe           # Executável auxiliar
 └── Relatório do Jogo [...].pdf # Documentação em PDF
-
+```
 ## 📘 Documentação
 
 Leia o Relatório do Jogo em Assembly RISC-V (PDF) incluído neste repositório para entender o funcionamento interno, a lógica, os desafios enfrentados e decisões de arquitetura.
